@@ -1,26 +1,2 @@
-# Back-end
-
-## Entidades
-
-### Game
-- id
-- title
-- subtitle
-
-### Ad
-- id
-- gameId
-- name
-- yearsPlaying
-- discord
-- weekDays
-- hourStart
-- hourEnd
-- useVoiceChannel
-- createdAt
-
-### Casos de uso
-- Listagem de games com contagem de anúncios
-- Criação de novo anúncio
-- Listagem de anúncios por game
-- Buscar discord por id do anúncio
+# NLWESports.Server
+Aplicação back-end desenvolvida utilizando Node.js (TypeScript), Express e Prisma (SQLite) durante a 9º Edição da NLW da Rocketseat.
